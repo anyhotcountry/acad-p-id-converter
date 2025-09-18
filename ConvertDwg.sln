@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDwg", "ConvertDwg\ConvertDwg.csproj", "{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Debug|Any CPU.Build.0 = Debug|x64
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Debug|x64.ActiveCfg = Debug|x64
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Debug|x64.Build.0 = Debug|x64
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Release|x64.ActiveCfg = Release|x64
+		{7C47782F-72FE-44A6-9AEE-DDA1AC6DCD73}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BD42A3-40E9-4779-811D-F6F38562E689}
+	EndGlobalSection
+EndGlobal

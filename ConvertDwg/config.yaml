@@ -1,0 +1,7 @@
+Source: C:\Users\marec3\Downloads\AutoCAD_work\before
+Destination: C:\Users\marec3\Downloads\AutoCAD_work\after_debug
+Tags:
+  - Name: Tag
+    Pattern: ^[%A-Z0-9]+-[A-Z0-9]+-[A-Z0-9]+$
+  - Name: Line
+    Pattern: ^\d+"-[A-Z0-9]+-[A-Z0-9]+-[A-Z0-9]+-[A-Z0-9]+$
