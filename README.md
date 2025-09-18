@@ -1,13 +1,14 @@
-# acad-p-id-converter
+# AutoCAD P&ID converter
+
 Simple AutoCAD P&amp;ID converter to create blocks with tags from text elements that match a certain pattern
 
-# This is a PoC only and not intended for production purposes.
+## This is a PoC only and not intended for production purposes.
 
 Batch converts all Text and MText of drawings in a folder into individual Blocks with configurable attributes which is filled with the same text. The original MText and Text elements are deleted.
 
 This provides a very basic Smart P&ID that can be loaded into a 3rd party program that recognises tags.
 
-Usage:
+## Usage
 
 Compile with Visual Studio and load the dll into AutoCAD with "netload" command.
 
